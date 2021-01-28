@@ -1,0 +1,1 @@
+Estoy probando si al hacer un git pull desde un directorio remoto se elimina este archivo o se fusiona
