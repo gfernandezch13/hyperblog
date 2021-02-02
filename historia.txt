@@ -4,6 +4,8 @@ Gustavo tienen 29 años y quiere convertirse en un software enginner
 
 Su plan es certificarse en azure, power platform, aws y oracle para cambiarse de trabajo
 
+Gustavo Adolfo Fernandez actualmente trabaje en everis
+
 Agregando contenido para probar el git rm
 
 Agregando contenido para probar el git reset
