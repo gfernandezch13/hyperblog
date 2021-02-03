@@ -9,3 +9,5 @@ Gustavo Adolfo Fernandez actualmente trabaje en everis
 Agregando contenido para probar el git rm
 
 Agregando contenido para probar el git reset
+
+Haciendo un push desde ubuntu
