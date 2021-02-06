@@ -11,3 +11,5 @@ Agregando contenido para probar el git rm
 Agregando contenido para probar el git reset
 
 Haciendo un push desde ubuntu
+
+Probando trabajo remoto sobre un repositorio forkeado
