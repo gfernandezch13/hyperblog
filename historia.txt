@@ -11,3 +11,5 @@ Agregando contenido para probar el git rm
 Agregando contenido para probar el git reset
 
 Haciendo un push desde ubuntu
+
+Gustavo everis contribuye activamente este proyecto open source
